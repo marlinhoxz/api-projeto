@@ -7,7 +7,7 @@ app.get('/api', (req, res) => {
         { 
             id: 0, 
             name: 'Crossout', 
-            image: '/enlistedgame.jpg', 
+            image: '/crossoutgame.jpg',  
             installed: true,
             trofeusObtidos: 20,
             trofeusTotais: 40
@@ -63,7 +63,7 @@ app.get('/api', (req, res) => {
         {
             id: 7,
             name: 'Project Entropy',
-            image: '/projectenjoygane.jpg',
+            image: '/projectenjoygame.jpg',
             installed: true,
             trofeusObtidos: 15,
             trofeusTotais: 40
